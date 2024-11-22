@@ -1,0 +1,34 @@
+# Node.js
+/node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# React build directory
+/build/
+# React environment variables
+.env
+
+# Flask
+/venv/
+*.pyc
+*.pyo
+__pycache__/
+instance/
+*.log
+
+# Model files
+/model/iris_model.joblib
+
+# IDE/Editor folders
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
