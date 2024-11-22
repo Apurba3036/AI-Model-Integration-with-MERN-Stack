@@ -6,6 +6,7 @@ yarn-error.log
 
 # React build directory
 /build/
+
 # React environment variables
 .env
 
